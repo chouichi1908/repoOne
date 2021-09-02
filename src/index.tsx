@@ -2,11 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import Count from './Count';
+import Effect from './Effect';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
     <Count />
+    <Effect />
   </React.StrictMode>,
   document.getElementById('root')
 );
