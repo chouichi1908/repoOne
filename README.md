@@ -2,5 +2,5 @@
 
 Count.tsx
 
-#項番 3:
+# 項番 3:
 Effect.tsx
